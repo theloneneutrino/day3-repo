@@ -1,0 +1,19 @@
+html, body {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.navbar-default {
+    margin-bottom: 0; 
+}
+
+.jumbotron {
+    background-image: url(../images/adult-black-and-white-business-deal-1437866.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.thumbnail:any-link {
+    color: black;
+    text-decoration: none;
+}
+
