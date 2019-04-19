@@ -2,6 +2,7 @@
 
 html, body {
     font-family: 'IBM Plex Sans', sans-serif;
+    overflow-x: hidden;
 }
 
 .navbar-default {
@@ -19,3 +20,11 @@ html, body {
     text-decoration: none;
 }
 
+.thumbnail {
+    height: 300px;
+    overflow-y: hidden;
+}
+
+.fas-fa-user-tie {
+    font-size: 9em;
+}
