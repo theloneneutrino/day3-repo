@@ -13,6 +13,8 @@ html, body {
     background-image: url(../images/adult-black-and-white-business-deal-1437866.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center; 
+    color: #888;
 }
 
 .thumbnail:any-link {
